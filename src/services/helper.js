@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://otplogin-iwv8.onrender.com";
